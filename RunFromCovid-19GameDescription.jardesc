@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/ryanj/Downloads/ISP2020 assets/The game/Running from Covid-19.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ISP2020/RunFromCovid-19GameDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/ISP2020/InfectedPerson - Frame1.png"/>
+        <file path="/ISP2020/.project"/>
+        <file path="/ISP2020/InfectedPerson - Frame3.png"/>
+        <file path="/ISP2020/Character - Frame2.png"/>
+        <file path="/ISP2020/Character - Frame4.png"/>
+        <javaElement handleIdentifier="=ISP2020/src"/>
+        <file path="/ISP2020/InfectedPerson - Frame5.png"/>
+        <file path="/ISP2020/.classpath"/>
+        <file path="/ISP2020/InfectedPerson - Frame7.png"/>
+        <file path="/ISP2020/theMap.png"/>
+        <file path="/ISP2020/Character - Frame6.png"/>
+        <file path="/ISP2020/Character - Frame8.png"/>
+        <file path="/ISP2020/theMapV2.png"/>
+        <file path="/ISP2020/Character - Frame1.png"/>
+        <file path="/ISP2020/InfectedPerson - Frame2.png"/>
+        <file path="/ISP2020/Character - Frame3.png"/>
+        <file path="/ISP2020/InfectedPerson - Frame4.png"/>
+        <file path="/ISP2020/logo.png"/>
+        <file path="/ISP2020/InfectedPerson - Frame6.png"/>
+        <file path="/ISP2020/Character - Frame5.png"/>
+        <file path="/ISP2020/Character - Frame7.png"/>
+        <file path="/ISP2020/InfectedPerson - Frame8.png"/>
+        <file path="/ISP2020/Hazard.png"/>
+    </selectedElements>
+</jardesc>
